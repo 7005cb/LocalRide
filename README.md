@@ -1,2 +1,16 @@
-# LocalRide
-LocalRide s a modern ride-sharing platform built to connect riders and drivers within local communities, making transportation more efficient, accessible, and sustainable. Unlike traditional ride-hailing apps that focus mainly on large cities, NeaRide is designed for neighborhoods, towns, and suburban areas where mobility options are often limited.
+# nearide
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
